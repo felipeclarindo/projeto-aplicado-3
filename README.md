@@ -5,11 +5,10 @@ Este projeto consiste no desenvolvimento e implementação de um Sistema de Reco
 ## Links
 
 - [Apresentações em Vídeo](https://youtu.be/4VFgVdHtRuY)
-- [Apresentação Canvas](https://www.canva.com/design/DAHKLGB9qxc/TSv8Vbi_wQCE99JLHjZTFA/edit)
 
 ## Integrantes
 
-- Alexandre Cepeda
+- Alexandre Zamarion Cepeda
 - Felipe Clarindo
 - Thiago Godeguesi
 - Victória Fortes
